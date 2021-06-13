@@ -1,0 +1,68 @@
+[
+    {
+        "date": "07/06/2021",
+        "dose_1": 9216223,
+        "dose_2": 6163970,
+        "death": 3,
+        "recovered": 194,
+        "confirmed_cases" : 104 ,
+        "death_total": 9181,
+        "recovered_total": 509277,
+        "confirmed_cases_total" :521530,
+        "active_cases" : 3072,
+        "critical_cases" : 12
+    },
+    {
+        "date": "08/06/2021",
+        "dose_1": 9341497,
+        "dose_2": 6457177,
+        "death": 6,
+        "recovered": 383,
+        "confirmed_cases" : 473 ,
+        "death_total": 9187,
+        "recovered_total": 509660,
+        "confirmed_cases_total" :522003,
+        "active_cases" : 3156,
+        "critical_cases" : 23
+    },
+    {
+        "date": "09/06/2021",
+        "dose_1": 9354932,
+        "dose_2": 9354932,
+        "death": 3,
+        "recovered": 298,
+        "confirmed_cases" : 386 ,
+        "death_total": 9190 ,
+        "recovered_total": 509958,
+        "confirmed_cases_total" :522389 ,
+        "active_cases" : 3241,
+        "critical_cases" : 13
+    },
+    {
+        "date": "10/06/2021",
+        "dose_1": 9359017,
+        "dose_2": 6878656,
+        "death": 2,
+        "recovered": 341,
+        "confirmed_cases" : 376 ,
+        "death_total": 9192 ,
+        "recovered_total": 509277,
+        "confirmed_cases_total" :522765 ,
+        "active_cases" : 3274,
+        "critical_cases" : 24 
+    },
+    {
+        "date": "11/06/2021",
+        "dose_1": 9362000,
+        "dose_2": 7047704,
+        "death": 10,
+        "recovered": 324,
+        "confirmed_cases" : 400 ,
+        "death_total": 9202,
+        "recovered_total": 510623,
+        "confirmed_cases_total" : 523165,
+        "active_cases" : 523165,
+        "critical_cases" : 15
+    }
+
+]

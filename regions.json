@@ -1,0 +1,480 @@
+[
+    {
+        "region_id": "R1",
+        "region_name": "Tanger-Tétouan-Al Hoceïma",
+        "villes": [
+            "v1",
+            "v2",
+            "v3",
+            "v4",
+            "v5",
+            "v6",
+            "v7",
+            "v8"
+        ],
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 27,
+                "death": 1
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 26,
+                "death": 1
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 19,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 44,
+                "death": 6
+            }
+        ]
+    },
+    {
+        "region_id": "R2",
+        "region_name": "L'Oriental",
+        "villes": [
+            "v9",
+            "v10",
+            "v11",
+            "v12",
+            "v13",
+            "v14",
+            "v15",
+            "v16"
+        ],
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 5,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 17,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 5,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 6,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 3,
+                "death": 6
+            }
+        ]
+    },
+    {
+        "region_id": "R3",
+        "region_name": "Fès-Meknès",
+        "villes": [
+            "v17",
+            "v18",
+            "v19",
+            "v20",
+            "v21",
+            "v22",
+            "v23",
+            "v24",
+            "v25"
+        ],
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 8,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 10,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 21,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 6,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 10,
+                "death": 1
+            }
+        
+        ]
+    },
+    {
+        "region_id": "R4",
+        "region_name": "Rabat-Salé-Kénitra",
+        "villes": [
+            "v26",
+            "v27",
+            "v28",
+            "v29",
+            "v30",
+            "v31",
+            "v32"
+        ],
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 28,
+                "death": 1
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 69,
+                "death": 2
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 50,
+                "death": 1
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 65,
+                "death": 1
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 65,
+                "death": 1
+            }
+        ]
+    },
+    {
+        "region_id": "R5",
+        "region_name": "Béni Mellal-Khénifra",
+        "villes": [
+            "v33",
+            "v34",
+            "v35",
+            "v36",
+            "v37"
+        ],
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 4,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 5,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 6,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 3,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "region_id": "R6",
+        "region_name": "Casablanca-Settat",
+        "villes": [
+            "v38",
+            "v39",
+            "v40",
+            "v41",
+            "v42",
+            "v43",
+            "v44",
+            "v45",
+            "v46"
+        ],
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 25,
+                "death": 1
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 273,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 178,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 200,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 183,
+                "death": 2
+            }
+        ]
+    },
+    {
+        "region_id": "R7",
+        "region_name": "Marrakech-Safi",
+        "villes": [
+            "v47",
+            "v48",
+            "v49",
+            "v50",
+            "v51",
+            "v52",
+            "v53",
+            "v54"
+           
+        ],
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 11,
+                "death": 1
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 34,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 28,
+                "death": 1
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 26,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 46,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "region_id": "R8",
+        "region_name": "Drâa-Tafilalet",
+        "villes": [
+            "v55",
+            "v56",
+            "v57",
+            "v58",
+            "v59"
+        ],
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 6,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 16,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 10,
+                "death": 1
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 3,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "region_id": "R9",
+        "region_name": "Souss-Massa",
+        "villes": [
+            
+            "v60",
+            "v61",
+            "v62",
+            "v63",
+            "v64",
+            "v65"
+            
+        ],
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 15,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 7,
+                "death": 1
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 32,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 26,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 16,
+                "death": 1
+            }
+        ]
+    },
+    {
+        "region_id": "R10",
+        "region_name": "Guelmim-Oued Noun",
+        "villes": [
+            "v66",
+            "v67",
+            "v68",
+            "v69"
+           
+        ],
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 2,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "region_id": "R11",
+        "region_name": "Laâyoune-Sakia El Hamra",
+        "villes": [
+            "v70",
+            "v71",
+            "v72",
+            "v73"
+           
+        ],
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 11,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 13,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 4,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 8,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "region_id": "R12",
+        "region_name": "Dakhla-Oued Ed-Dahab",
+        "villes": [
+            "v74",
+            "v75"
+    
+        ],
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 7,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 13,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 10,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 7,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 18,
+                "death": 0
+            }
+        ]
+    }
+]
