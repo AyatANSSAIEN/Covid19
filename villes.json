@@ -1,0 +1,2327 @@
+[
+    {
+        "ville_id": "v1",
+        "ville_name": "Tanger-Assilah",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 16,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 19,
+                "death": 1
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 13,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": "34",
+                "death": 3
+            }
+        ]
+    },
+    {
+        "ville_id": "v2",
+        "ville_name": "M'diq-Fnideq",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 4,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 1,
+                "death": 1
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 5,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 34,
+                "death": 3
+            }
+        ]
+    },
+    {
+        "ville_id": "v3",
+        "ville_name": "Tétouan",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 2,
+                "death": 1
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 2
+            }
+        ]
+    },
+    {
+        "ville_id": "v4",
+        "ville_name": "Fahs-Anjra",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v5",
+        "ville_name": "Larache",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v6",
+        "ville_name": "Al Hoceïma",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 3,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v7",
+        "ville_name": "Chefchaouen",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 5,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 1
+            }
+        ]
+    },
+    {
+        "ville_id": "v8",
+        "ville_name": " Ouezzane",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v9",
+        "ville_name": "Oujda-Angad",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 5,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 5,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v10",
+        "ville_name": "Nador",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v11",
+        "ville_name": " Driouch",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 3,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v12",
+        "ville_name": "Jerada",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 1,
+                "death": 1
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v13",
+        "ville_name": "Berkane",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 1,
+                "death": 1
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v14",
+        "ville_name": "Taourirt",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v15",
+        "ville_name": "Figuig",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v16",
+        "ville_name": "Guercif",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v17",
+        "ville_name": "Fès",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 5,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 5,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 10,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 7,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v18",
+        "ville_name": "Meknès",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 3,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 4,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v19",
+        "ville_name": "Taza",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 3,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v20",
+        "ville_name": "El Hajeb",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v21",
+        "ville_name": "Ifrane",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v22",
+        "ville_name": "Moulay Yaâcoub",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v23",
+        "ville_name": "Séfrou",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 4,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v24",
+        "ville_name": "Boulemane",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v25",
+        "ville_name": "Taounate",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 1
+            }
+        ]
+    },
+    {
+        "ville_id": "26",
+        "ville_name": "Rabat",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 4,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 4,
+                "death": 1
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 20,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 19,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 14,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v27",
+        "ville_name": "Salé",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 12,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 7,
+                "death": 1
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 11,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 19,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 24,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v28",
+        "ville_name": "Skhirate-Témara",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 7,
+                "death": 1
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 20,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 12,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 12,
+                "death": 1
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 13,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v29",
+        "ville_name": "Kénitra",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 23,
+                "death": 1
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 5,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 11,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 12,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v30",
+        "ville_name": "Khémisset",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v31",
+        "ville_name": "Sidi Kacem",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 4,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 1,
+                "death": 1
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 3,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v32",
+        "ville_name": "Sidi Slimane",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v33",
+        "ville_name": "Béni-Mellal",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v34",
+        "ville_name": "Azilal",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v35",
+        "ville_name": "Fquih Ben Salah",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v36",
+        "ville_name": "Khénifra",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v37",
+        "ville_name": "Khouribga",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 3,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 6,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v38",
+        "ville_name": "Casablanca",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 19,
+                "death": 1
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 220,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 147,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 146,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 147,
+                "death": 1
+            }
+        ]
+    },
+    {
+        "ville_id": "v39",
+        "ville_name": "Mohammédia",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 14,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 7,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 13,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 11,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v40",
+        "ville_name": "El Jadida",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 4,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 4,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 4,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 6,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v41",
+        "ville_name": "Nouaceur",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 17,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 10,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 14,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 14,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v42",
+        "ville_name": "Médiouna",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 5,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 3,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 6,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 2,
+                "death": 1
+            }
+        ]
+    },
+    {
+        "ville_id": "v43",
+        "ville_name": "Benslimane",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 3,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v44",
+        "ville_name": "Berrechid",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 3,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 3,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 6,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 2,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v45",
+        "ville_name": "Settat",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 7,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 7,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v46",
+        "ville_name": "Sidi Bennour",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v47",
+        "ville_name": "Marrakech",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 10,
+                "death": 1
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 27,
+                "death": 1
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 22,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 21,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 45,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v48",
+        "ville_name": "Chichaoua",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v49",
+        "ville_name": "Al Haouz",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v50",
+        "ville_name": "El Kelaâ des Sraghna",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 3,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v51",
+        "ville_name": "Essaouira",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v52",
+        "ville_name": "Rehamna",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v53",
+        "ville_name": "Safi",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 2,
+                "death": 1
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v54",
+        "ville_name": "Youssoufia",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v55",
+        "ville_name": "Errachidia",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 4,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 16,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 5,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v56",
+        "ville_name": "Ouarzazate",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 2,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v57",
+        "ville_name": "Midelt",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v58",
+        "ville_name": "Tinghir",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 1,
+                "death": 1
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v59",
+        "ville_name": "Zagora",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 4,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v60",
+        "ville_name": "Agadir Ida-Outanane",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 10,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 3,
+                "death": 1
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 23,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 10,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 9,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v61",
+        "ville_name": "Inezgane-Aït Melloul",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 5,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 6,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 12,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 6,
+                "death": 1
+            }
+        ]
+    },
+    {
+        "ville_id": "v62",
+        "ville_name": "Chtouka-Aït Baha",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 137,
+                "death": 3
+            }
+        ]
+    },
+    {
+        "ville_id": "v63",
+        "ville_name": "Taroudant",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v64",
+        "ville_name": "Tiznit",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v65",
+        "ville_name": "Tata",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v66",
+        "ville_name": "Guelmim",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v67",
+        "ville_name": "Assa-Zag",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v68",
+        "ville_name": "Tan-Tan",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v69",
+        "ville_name": "Sidi Ifni",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v70",
+        "ville_name": "Laâyoune",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 7,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 8,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 8,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v71",
+        "ville_name": "Boujdour",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v72",
+        "ville_name": "Tarfaya",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 4,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 5,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v73",
+        "ville_name": "Es-Semara",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v74",
+        "ville_name": "Oued Ed-Dahab",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 7,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 13,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 10,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 7,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 18,
+                "death": 0
+            }
+        ]
+    },
+    {
+        "ville_id": "v75",
+        "ville_name": "Aousserd",
+        "data": [
+            {
+                "date": "07/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "08/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "09/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "10/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            }
+        ]
+    }
+]
