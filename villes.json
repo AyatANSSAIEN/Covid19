@@ -25,8 +25,23 @@
             },
             {
                 "date": "11/06/2021",
-                "new_cases": "34",
+                "new_cases": 34,
                 "death": 3
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 9,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 3,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 9,
+                "death": 0
             }
         ]
     },
@@ -58,6 +73,21 @@
                 "date": "11/06/2021",
                 "new_cases": 34,
                 "death": 3
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 6,
+                "death": 1
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 9,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -89,6 +119,21 @@
                 "date": "11/06/2021",
                 "new_cases": 1,
                 "death": 2
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 9,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 1,
+                "death": 0
             }
         ]
     },
@@ -118,6 +163,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -151,6 +211,21 @@
                 "date": "11/06/2021",
                 "new_cases": 0,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 1,
+                "death": 0
             }
         ]
     },
@@ -180,6 +255,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -213,6 +303,21 @@
                 "date": "11/06/2021",
                 "new_cases": 1,
                 "death": 1
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -242,6 +347,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -275,6 +395,21 @@
                 "date": "11/06/2021",
                 "new_cases": 1,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 3,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -306,12 +441,27 @@
                 "date": "11/06/2021",
                 "new_cases": 1,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 1,
+                "death": 0
             }
         ]
     },
     {
         "ville_id": "v11",
-        "ville_name": " Driouch",
+        "ville_name": "Driouch",
         "data": [
             {
                 "date": "07/06/2021",
@@ -336,6 +486,21 @@
             {
                 "date": "11/06/2021",
                 "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
                 "death": 0
             }
         ]
@@ -366,6 +531,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 34,
+                "death": 3
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 34,
+                "death": 3
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -399,6 +579,21 @@
                 "date": "11/06/2021",
                 "new_cases": 0,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -428,6 +623,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -461,6 +671,21 @@
                 "date": "11/06/2021",
                 "new_cases": 0,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -491,6 +716,21 @@
             {
                 "date": "11/06/2021",
                 "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
                 "death": 0
             }
         ]
@@ -523,6 +763,21 @@
                 "date": "11/06/2021",
                 "new_cases": 7,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 5,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 6,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 8,
+                "death": 0
             }
         ]
     },
@@ -552,6 +807,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 1,
                 "death": 0
             }
@@ -585,6 +855,21 @@
                 "date": "11/06/2021",
                 "new_cases": 1,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -614,6 +899,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -647,6 +947,21 @@
                 "date": "11/06/2021",
                 "new_cases": 0,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -676,6 +991,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -709,6 +1039,21 @@
                 "date": "11/06/2021",
                 "new_cases": 1,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -738,6 +1083,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -771,6 +1131,21 @@
                 "date": "11/06/2021",
                 "new_cases": 0,
                 "death": 1
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 1
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -801,6 +1176,21 @@
             {
                 "date": "11/06/2021",
                 "new_cases": 14,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 17,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 14,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 5,
                 "death": 0
             }
         ]
@@ -833,6 +1223,21 @@
                 "date": "11/06/2021",
                 "new_cases": 24,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 29,
+                "death": 3
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 11,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 5,
+                "death": 0
             }
         ]
     },
@@ -863,6 +1268,21 @@
             {
                 "date": "11/06/2021",
                 "new_cases": 13,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 13,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 7,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 7,
                 "death": 0
             }
         ]
@@ -895,6 +1315,21 @@
                 "date": "11/06/2021",
                 "new_cases": 12,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 16,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 4,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 2,
+                "death": 0
             }
         ]
     },
@@ -924,6 +1359,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -957,6 +1407,21 @@
                 "date": "11/06/2021",
                 "new_cases": 1,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 8,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 1
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -986,6 +1451,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 8,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -1019,6 +1499,21 @@
                 "date": "11/06/2021",
                 "new_cases": 1,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 1
             }
         ]
     },
@@ -1050,6 +1545,21 @@
                 "date": "11/06/2021",
                 "new_cases": 1,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -1079,6 +1589,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -1112,6 +1637,21 @@
                 "date": "11/06/2021",
                 "new_cases": 1,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -1141,6 +1681,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -1174,6 +1729,21 @@
                 "date": "11/06/2021",
                 "new_cases": 147,
                 "death": 1
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 163,
+                "death": 1
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 82,
+                "death": 2
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 24,
+                "death": 1
             }
         ]
     },
@@ -1204,6 +1774,21 @@
             {
                 "date": "11/06/2021",
                 "new_cases": 11,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 9,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 3,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
                 "death": 0
             }
         ]
@@ -1236,6 +1821,21 @@
                 "date": "11/06/2021",
                 "new_cases": 6,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 7,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -1266,6 +1866,21 @@
             {
                 "date": "11/06/2021",
                 "new_cases": 14,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 17,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 8,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 3,
                 "death": 0
             }
         ]
@@ -1298,6 +1913,21 @@
                 "date": "11/06/2021",
                 "new_cases": 2,
                 "death": 1
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 5,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -1328,6 +1958,21 @@
             {
                 "date": "11/06/2021",
                 "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
                 "death": 0
             }
         ]
@@ -1360,6 +2005,21 @@
                 "date": "11/06/2021",
                 "new_cases": 2,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 3,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 3,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 1,
+                "death": 0
             }
         ]
     },
@@ -1389,6 +2049,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -1422,6 +2097,21 @@
                 "date": "11/06/2021",
                 "new_cases": 0,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -1453,6 +2143,21 @@
                 "date": "11/06/2021",
                 "new_cases": 45,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 31,
+                "death": 2
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 41,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 12,
+                "death": 0
             }
         ]
     },
@@ -1482,6 +2187,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -1515,6 +2235,21 @@
                 "date": "11/06/2021",
                 "new_cases": 0,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -1544,6 +2279,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -1577,6 +2327,21 @@
                 "date": "11/06/2021",
                 "new_cases": 0,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -1608,6 +2373,21 @@
                 "date": "11/06/2021",
                 "new_cases": 0,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 1,
+                "death": 0
             }
         ]
     },
@@ -1637,6 +2417,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -1670,6 +2465,21 @@
                 "date": "11/06/2021",
                 "new_cases": 1,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 4,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -1699,6 +2509,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 18,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 1,
                 "death": 0
             }
@@ -1732,6 +2557,21 @@
                 "date": "11/06/2021",
                 "new_cases": 2,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 5,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 3,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -1761,6 +2601,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -1794,6 +2649,21 @@
                 "date": "11/06/2021",
                 "new_cases": 0,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -1823,6 +2693,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -1856,6 +2741,21 @@
                 "date": "11/06/2021",
                 "new_cases": 9,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 27,
+                "death": 1
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 15,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 14,
+                "death": 0
             }
         ]
     },
@@ -1887,6 +2787,21 @@
                 "date": "11/06/2021",
                 "new_cases": 6,
                 "death": 1
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 22,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 6,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 1,
+                "death": 0
             }
         ]
     },
@@ -1918,6 +2833,21 @@
                 "date": "11/06/2021",
                 "new_cases": 137,
                 "death": 3
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -1949,6 +2879,21 @@
                 "date": "11/06/2021",
                 "new_cases": 0,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 1,
+                "death": 0
             }
         ]
     },
@@ -1978,6 +2923,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 3,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 1,
                 "death": 0
             }
@@ -2011,6 +2971,21 @@
                 "date": "11/06/2021",
                 "new_cases": 0,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -2040,6 +3015,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 2,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -2073,6 +3063,21 @@
                 "date": "11/06/2021",
                 "new_cases": 1,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 1,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -2104,6 +3109,21 @@
                 "date": "11/06/2021",
                 "new_cases": 1,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 1
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -2133,6 +3153,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -2166,6 +3201,21 @@
                 "date": "11/06/2021",
                 "new_cases": 8,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 6,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 10,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -2195,6 +3245,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -2228,6 +3293,21 @@
                 "date": "11/06/2021",
                 "new_cases": 0,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 0,
+                "death": 0
             }
         ]
     },
@@ -2257,6 +3337,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
@@ -2290,6 +3385,21 @@
                 "date": "11/06/2021",
                 "new_cases": 18,
                 "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 4,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 14,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
+                "new_cases": 10,
+                "death": 0
             }
         ]
     },
@@ -2319,6 +3429,21 @@
             },
             {
                 "date": "11/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "12/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "13/06/2021",
+                "new_cases": 0,
+                "death": 0
+            },
+            {
+                "date": "14/06/2021",
                 "new_cases": 0,
                 "death": 0
             }
